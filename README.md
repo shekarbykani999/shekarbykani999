@@ -20,3 +20,6 @@ With a strong foundation in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js,
 
 ## Let's Connect!
 [![LinkedIn]linkedin.com/in/shekar-b-786433307
+[![Email] sbykani999@gmail.com
+
+Feel free to explore my repository 😊!!
