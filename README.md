@@ -1,5 +1,8 @@
-## Hi there 👋
+ Hi there 👋
 
+I'm a passionate Full Stack Developer dedicated to building responsive, efficient, and scalable web applications. I specialize in creating seamless user experiences and robust backend systems by combining creativity with technical expertise.
+
+With a strong foundation in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQL, and MongoDB, I also work with modern development tools and frameworks such as TypeScript, Next.js, Redux, RESTful APIs, GraphQL, Docker, Git, GitHub Actions, Postman, and Firebase. I’m experienced in using Figma for UI/UX collaboration and follow agile methodologies to deliver high-quality, maintainable code.
 <!--
 **shekarbykani999/shekarbykani999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
