@@ -3,7 +3,7 @@
 
 With a strong foundation in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQL, and MongoDB, I also work with modern development tools and frameworks such as TypeScript, Next.js, Redux, RESTful APIs, GraphQL, Docker, Git, GitHub Actions, Postman, and Firebase. I’m experienced in using Figma for UI/UX collaboration and follow agile methodologies to deliver high-quality, maintainable code.
 ## About Me
-- 💼 I'm a Java Full Stack Developer with a passion for building end-to-end web applications that are scalable, maintainable, and user-centric. With hands-on experience in developing both frontend interfaces and backend systems, I specialize in delivering full-featured solutions that solve real-world problems.
+I'm a Java Full Stack Developer with a passion for building end-to-end web applications that are scalable, maintainable, and user-centric. With hands-on experience in developing both frontend interfaces and backend systems, I specialize in delivering full-featured solutions that solve real-world problems.
 
 On the backend, I work extensively with Java, Spring Boot, Spring MVC, Hibernate, RESTful APIs, and Microservices Architecture. I’m also proficient in SQL, MySQL, PostgreSQL, and MongoDB for database design and optimization.
 
