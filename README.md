@@ -18,8 +18,5 @@ With a strong foundation in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js,
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## Let's Connect!
-[![LinkedIn]linkedin.com/in/shekar-b-786433307
-[![Email] sbykani999@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekaryadav/)
 Feel free to explore my repository 😊!!
